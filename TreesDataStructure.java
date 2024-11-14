@@ -8,7 +8,7 @@ class Node {
     }
 }
 
-class Trees {
+class TreesDataStructure {
     Node root;
 
     
